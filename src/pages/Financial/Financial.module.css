@@ -1,0 +1,449 @@
+/* home */
+
+.home {
+flex-direction: row;
+}
+
+.search_form {
+  max-width: 100%;
+  width: 60%;
+  justify-content: center;
+  margin-bottom: 2em;
+  display: flex;
+}
+
+.search_form input {
+  margin-right: 10px;
+  width: 50%;
+  display: flex;
+}
+
+.noposts {
+  text-align: center;
+  display: flex;
+}
+
+.noposts p {
+  margin-bottom: 1.5em;
+}
+
+.noposts a {
+  padding: 10px 25px;
+}
+
+/* Tela */
+
+.tela {
+width: 8%;
+height: 796px;
+margin-top: -336px;
+margin-left: 0px;
+background-color: #F2EEE9;
+display: inline-block;
+}
+
+
+/* icons esquedo */
+
+.icone1 {
+display: flex;
+color: #000814;
+margin-top: 95px;
+height: 100px;
+width: 5px;
+margin-left: 50px;
+}
+
+.icone2 {
+display: flex;
+color: #000814;
+height: 100px;
+width: 5px;
+margin-left: 50px;
+}
+
+.icone3 {
+display: flex;
+color: #000814;
+height: 100px;
+width: 5px;
+margin-left: 50px;
+}
+
+.icone4 {
+display: flex;
+color: #000814;
+height: 100px;
+width: 5px;
+margin-left: 50px;
+}
+
+.icone5 {
+display: flex;
+color: #000814;
+height: 100px;
+width: 5px;
+margin-left: 50px;
+}
+
+.icone6 {
+display: flex;
+color: #000814;
+height: 100px;
+width: 5px;
+margin-left: 50px;
+}
+
+
+ 
+.sair {
+  display: flex;
+  height: 80px;
+  width: 5px;
+  margin-left: 50px;
+  margin-top: 15px;
+  color: #000814;
+  font-size: 15px;
+}
+
+
+/* 1° Coluna */
+
+.Saldo{
+margin-left: 300px;
+margin-top: 70px;
+width: 420px;
+color: #000814;
+font-weight: bold;
+font-size: 25px;
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+.V1{
+width: 400px;
+margin-left: 400px;
+margin-top:30px;
+color: #000814;
+font-size: 60px;
+font-family: Poppins;
+display: flex;
+}
+
+.V1 i{
+margin-top: 30px;
+margin-left: -30px;
+color: #000814;
+font-size: 30px;
+font-weight: bold;
+display: flex;
+}
+
+.per{
+width: 310px;
+margin-left: 350px;
+margin-top: 0px;
+color: #000814;
+font-size: 15px;
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+cursor: pointer;
+display: flex;
+}
+
+.Bimg1 {
+background-color: #F2EEE9;
+border-radius: 10px;
+width: 400px;
+height: 70px;
+margin-top: 10px;
+margin-left: 300px;
+
+text-align: center;
+padding-top: 40px;
+display: flex;
+}
+
+.texto1{
+width: 155px;
+height: 70px;
+margin-left: 10px;
+margin-top: 10px;
+color: #858181; 
+position: absolute;
+}
+
+.texto1 i{
+width: 230px;
+height: 70px;
+margin-top: -30px;
+font-size: 20px;
+margin-left: -30px;
+color: #000814;
+position: absolute;
+}
+
+.V2{
+width: 510px;
+height: 70px;
+font-size: 20px;
+margin-left: 80px;
+margin-top: -15px;
+position: absolute;
+}
+
+.Prazo{
+margin-left: 300px;
+margin-top: 20px;
+width: 420px;
+color: #000814;
+font-weight: bold;
+font-size: 25px;
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+.texto3{
+width: 400px;
+height: 70px;
+margin-top: 30px;
+margin-left: 300px;
+color: #858181; 
+display: flex;
+}
+
+.texto4{
+width: 220px;
+height: 70px;
+margin-top: 0px;
+margin-left: 470px;
+color: #858181; 
+display: flex;
+}
+
+.Dia{
+width: 100px;
+height: 30px;
+margin-top: 0px;
+margin-left: 300px;
+color: #858181; 
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+.Dias{
+width: 100px;
+height: 30px;
+margin-top: 0px;
+margin-left: 300px;
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+/* 2° Coluna */
+
+.Dados{
+margin-left: 830px;
+margin-top: -720px;
+width: 350px;
+color: #000814;
+font-weight: bold;
+font-size: 25px;
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+.dtexto1{
+width: 400px;
+height: 70px;
+margin-top: 50px;
+margin-left: 830px;
+font-weight: bold; 
+display: flex;
+}
+
+.dtexto2{
+width: 50px;
+height: 25px;
+margin-top: -30px;
+margin-left: 830px;
+color: #858181; 
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+text-align: center;
+display: flex;
+}
+
+.dtexto3{
+width: 400px;
+height: 70px;
+margin-top: -65px;
+margin-left: 950px;
+font-weight: bold;
+display: flex;
+}
+
+.dtexto4{
+width: 230px;
+height: 25px;
+margin-top: -35px;
+margin-left: 950px;
+color: #858181; 
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+text-align: center;
+display: flex;
+}
+
+.dtexto5{
+width: 400px;
+height: 70px;
+margin-top: 20px;
+margin-left: 830px;
+font-weight: bold;
+display: flex;
+}
+
+.dtexto6{
+width: 350px;
+height: 25px;
+margin-top: -40px;
+margin-left: 830px;
+color: #858181; 
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+text-align: center;
+display: flex;
+}
+
+.dtexto7{
+width: 400px;
+height: 70px;
+margin-top: 10px;
+margin-left: 830px;
+font-weight: bold;
+display: flex;
+}
+
+.dtexto8{
+width: 350px;
+height: 25px;
+margin-top: -45px;
+margin-left: 830px;
+color: #858181; 
+
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+text-align: center;
+display: flex;
+}
+
+
+/* 3° Coluna */
+
+.Metodos{
+margin-left: 1350px;
+margin-top: -280px;
+width: 350px;
+color: #000814;
+font-weight: bold;
+font-size: 25px;
+
+border: 1px solid #858181;
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+.BMetodo{
+background-color: #F2EEE9;
+border-radius: 10px;
+width: 380px;
+height: 190px;
+margin-top: 20px;
+margin-left: 1350px;
+
+text-align: center;
+padding-top: 40px;
+display: flex;
+}
+
+.Mtexto1{
+width: 400px;
+height: 70px;
+margin-top: -210px;
+margin-left: 1370px;
+font-weight: bold; 
+display: flex;
+}
+
+.Mtexto2{
+width: 400px;
+height: 70px;
+margin-top: 40px;
+margin-left: 1370px;
+color: #858181;
+display: flex;
+}
+
+.Mtexto2 i{
+width: 400px;
+height: 70px;
+margin-top: -30px;
+font-weight: bold;
+color: #858181;
+position: absolute;
+}
+
+.BMetodo2{
+background-color: #000814;
+border-radius: 10px;
+width: 300px;
+height: 35px;
+margin-top: -30px;
+margin-left: 1360px;
+color: wheat;
+
+cursor: pointer;
+padding-left: 60px;
+padding-top: 15px;
+display: flex;
+}
+
+.icon1{
+width: 50px;
+margin-left: 50px;
+display: flex;
+}

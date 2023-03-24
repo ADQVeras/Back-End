@@ -1,0 +1,401 @@
+/* Tela */
+
+.tela {
+width: 960px;
+height: 976px ;
+margin-left: 950px;
+margin-top: -150px;
+background-color: #F2EEE9;
+position: absolute;
+}
+    
+  
+  /* 3 textos direito */
+    
+  .text1 {
+  width: 170px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 42px;
+  color: #858181;
+  margin-left: 1142px ;
+  margin-top: 200px;
+  position: absolute;
+  background-color: #F2EEE9;
+  border: none;
+     
+  }
+    
+    
+  .text1:hover{
+  color: #000814;
+  cursor: pointer;
+  border-radius: 10px;
+  display: flex;
+  }
+    
+  .text2 {
+  width: 200px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 42px;
+  color: #858181;
+  margin-left: 1300px ;
+  margin-top: 200px;
+  position: absolute;
+  background-color: #F2EEE9;
+  border: none;
+  }
+    
+    
+  .text2:hover{
+  color: #000814;
+  cursor: pointer;
+  border-radius: 10px;
+  display: flex;
+  }
+    
+  .text3 {
+  width: 200px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 42px;
+  color: #858181;
+  margin-left: -50px;
+  margin-left: 1490px ;
+  margin-top: 200px;
+  position: absolute;
+  background-color: #F2EEE9;
+  border: none;
+  }
+    
+    
+  .text3:hover{
+  color: #000814;
+  cursor: pointer;
+  border-radius: 10px;
+  display: flex;
+  }
+      
+  
+  
+  /* PESSOAS */
+      
+  .nome {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 280px;
+  position: absolute; 
+  }
+  
+  .nome1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 300px;
+  position: absolute;
+  }
+  
+  .cpf {    
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 340px;
+  position: absolute;
+  }
+    
+  .cpf1 { 
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 360px;
+  position: absolute;
+  }
+  
+  .data {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 410px;
+  position: absolute;   
+      
+  }
+      
+  .data1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 430px;
+  position: absolute;
+  }
+      
+  .genero {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 480px;
+  position: absolute;
+  }
+      
+  .genero1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 524px;
+  position: absolute;
+  background-color: #F2EEE9;
+  color: #858181;
+  border: 1px solid #858181 ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  }
+  
+  
+  /* ENDEREÇO */
+  
+  .uf {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 280px;
+  position: absolute; 
+  }
+  
+  .uf1 {
+  font-size: 120%;
+  width: 50px;
+  margin-left: 980px;
+  margin-top: 330px;
+  position: absolute; 
+  background-color: #F2EEE9;
+  border: 1px solid #858181 ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  }
+  
+  .cidade {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 1080px;
+  margin-top: 264px;
+  position: absolute; 
+  }
+  
+  .cidade1 {
+  font-size: 120%;
+  width: 440px;
+  margin-left: 1080px;
+  margin-top: 297px;
+  position: absolute;
+  }
+  
+  .cep {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 335px;
+  position: absolute;   
+      
+  }
+      
+  .cep1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 355px;
+  position: absolute;
+  }
+  
+  .rua {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 400px;
+  position: absolute;
+  }
+      
+  .rua1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 415px;
+  position: absolute;
+  }
+      
+  .numero {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 460px;
+  position: absolute;
+  }
+  
+  .numero1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 480px;
+  position: absolute;
+  }
+  
+  .complemento {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 530px;
+  position: absolute;
+  }
+  
+  .complemento1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 550px;
+  position: absolute;
+  }
+  
+  /* CADASTRO */
+   
+  .telefone {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 280px;
+  position: absolute; 
+  }
+  
+  .telefone1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 300px;
+  position: absolute;
+  }
+  
+  
+  .email {
+          
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 340px;
+  position: absolute;
+      
+  }
+      
+  .email1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 360px;
+  position: absolute;
+  }
+      
+  .senha {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 410px;
+  position: absolute;   
+      
+  }
+      
+  .senha1 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 430px;
+  position: absolute;
+  }
+      
+  .senha2 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 480px;
+  position: absolute;
+  }
+      
+  .senha3 {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 500px;
+  position: absolute;
+  }
+  
+  /* voltar */
+  
+  .voltar1 {
+  font-size: 120%;
+  width: 60px;
+  margin-left: 980px;
+  margin-top: 600px;
+  border: none;
+  background-color: #F2EEE9;
+  position: absolute;
+  }
+  
+  
+  /*aguarde*/
+      
+  .aguarde {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 600px;
+  position: absolute;
+  }
+  
+  /* erro */
+      
+  .erro {
+  font-size: 120%;
+  width: 540px;
+  margin-left: 980px;
+  margin-top: 700px;
+  position: absolute;
+  }
+  
+  /* Continuar */
+  
+  .continuar {
+  font-size: 120%;
+  width: 130px;
+  margin-left: 1390px;
+  margin-top: 600px;
+  position: absolute;
+  background-color: #000814;
+  color:#ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  }
+        
+  /* botão erro */
+        
+        
+  .btn2 {
+  text-align: start;
+  background-color: #ee1111;
+  color: #ffffff;
+  text-align: start;
+  border-radius: 5px;
+  border: none;
+  position: absolute;
+  cursor: pointer;
+  width: 380px;
+          
+  margin-left: 980px;
+  margin-top: 680px;
+        
+  }
+        

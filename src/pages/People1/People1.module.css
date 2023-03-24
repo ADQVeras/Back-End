@@ -1,0 +1,453 @@
+/* coluna 1 */
+
+/* image */
+
+.img1 {
+margin-top: 80px;
+margin-left:250px;
+width: 431px;
+height: 466px;
+display: flex;
+}
+
+/* Texto  */
+
+.texto1 {
+width: 150px;
+margin-left: 250px;
+margin-top: 0px;
+border: none;
+display: flex;
+font-size: 20px;
+padding-bottom: 29px;
+}
+
+
+.texto2 {
+width: 250px;
+margin-left: 250px;
+margin-top: -30px;
+border: none;
+display: flex;
+font-size: 30px;
+padding-bottom: 29px;
+}
+  
+.texto2 i {
+font-weight: bold;
+display: flex;
+}
+
+.texto3 {
+width: 150px;
+margin-left: 250px;
+margin-top: -20px;
+border: none;
+font-size: 25px;
+display: flex;
+padding-bottom: 29px;
+}
+
+/* NIVEL */
+
+.nivel {
+height: 25px;
+width: 60px;
+background-color:#DAC0A9;
+margin-left: 440px;
+margin-top: -95px;
+border-radius: 35px;
+justify-content: center;
+display: flex;
+}  
+
+.texto4 {
+width: 450px;
+height: 50px;
+margin-left: 250px;
+margin-top: 0px;
+border: none;
+display: flex;
+font-size: 20px;
+padding-bottom: 29px;
+}
+
+
+
+.avaliar {
+height: 25px;
+width: 60px;
+margin-left: 650px;
+margin-top: 0px;
+border-radius: 35px;
+font-size: 100%;
+justify-content: center;
+display: flex;
+}
+  
+.avaliar i {
+margin-left: -43px;
+margin-top: 0px;
+display: flex;
+}
+
+.coração {
+height: 50px;
+width: 50px;
+border: 1px solid #000814;
+background-color:#F2EEE9;
+color: black;
+margin-left: 630px;
+margin-top: 0px;
+border-radius: 100px;
+display: flex;
+}
+
+.coração h2 {
+margin-top: 12px;
+margin-left: 12px;
+position: absolute;
+}
+
+.coração:hover{
+background: #000814;
+color: #ffffff;
+cursor: pointer;
+border-radius: 50px;
+display: flex;
+}
+
+/* coluna 2 */
+
+
+/* Serviço */
+
+.Serviço {
+margin-top: -690px;
+margin-left:800px;
+font-size: 30px;
+font-weight: bold;
+display: flex;
+}
+
+
+/* 1 botões superiores */
+
+.bt1{
+box-sizing: border-box;
+background: none;
+width: 490px;
+height: 98px;
+margin-left: 800px;
+margin-top: -200px;
+border-top:  none;
+color: #000814;
+border-bottom: 0.5px solid #000814;
+border-left: none;
+border-right: none; 
+display: flex;
+
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 60px;
+padding-right: 254px;
+}
+
+.bt1:hover{
+background: #000814;
+color: #ffffff;
+cursor: pointer;
+border-radius: 10px;
+display: flex;
+}
+
+
+/* 2 botões superiores */
+
+.bt2{
+box-sizing: border-box;
+background: none;
+margin-left: 800px;
+margin-top: 0px;
+border-top:  0.5px solid #000814;
+width: 490px;
+border-bottom: 0.5px solid #000814;
+border-left: none;
+border-right: none;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+display: flex;
+
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 60px;
+padding-right: 254px;
+color:#000814;
+}
+
+
+.bt2:hover{
+print-color-adjust:  #000814 ;
+background: #000814;
+color: #000814;
+color: #ffffff;
+cursor: pointer;
+border-radius: 10px;
+display: flex;
+}
+
+/* 3 botões superiores */
+
+.bt3{
+box-sizing: border-box;
+background: none;
+margin-left: 800px;
+margin-top: 0px;
+border-top:  0.5px solid #000814;
+width: 490px;
+border-bottom: none;
+border-left: none;
+border-right: none;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+display: flex;
+
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 60px;
+padding-right: 254px;
+color:#000814;
+}
+
+
+.bt3:hover{
+print-color-adjust:  #000814 ;
+background: #000814;
+color: #000814;
+color: #ffffff;
+cursor: pointer;
+border-radius: 10px;
+display: flex;
+}
+
+/* 4 botões superiores */
+
+.bt4{
+box-sizing: border-box;
+background: none;
+width: 490px;
+height: 98px;
+margin-left: 800px;
+margin-top: 0px;
+border-top:  none;
+border-bottom: 0.5px solid #000814;
+border-left: none;
+border-right: none;
+background: #000814;
+color: #ffffff;
+border-radius: 10px;
+display: flex;
+
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 60px;
+padding-right: 254px;
+}
+
+.bt4:hover{
+background: #ffffff;
+color: #000814;
+cursor: pointer;
+border-radius: 0px;
+display: flex;
+}
+
+/* coluna 3 */
+
+
+/* Emblema */
+
+.Emblema {
+margin-top: -30px;
+margin-left:1400px;
+font-size: 30px;
+font-weight: bold;
+width: 400px;
+
+border: 1px solid #000814;
+border-top: none;
+border-left: none;
+border-right: none;
+display: flex;
+}
+
+/* box */
+
+.box1 {
+height: 80px;
+width: 80px;
+background-color:#F2EEE9;
+margin-left: 1420px;
+margin-top: 10px;
+border-radius: 50px;
+cursor: pointer;   
+border: none;
+display: flex;
+}
+
+
+.box2 {
+height: 80px;
+width: 80px;
+background-color:#F2EEE9;
+margin-left: 1520px;
+margin-top: -78px;
+border-radius: 50px;
+cursor: pointer;
+border: none;
+display: flex;
+}
+
+
+.box3 {
+height: 80px;
+width: 80px;
+background-color:#F2EEE9;
+margin-left: 1620px;
+margin-top: -78px;
+border-radius: 50px;
+cursor: pointer; 
+border: none;
+display: flex;
+}
+
+.box4 {
+height: 80px;
+width: 80px;
+background-color:#F2EEE9;
+margin-left: 1720px;
+margin-top: -78px;
+border-radius: 50px;
+cursor: pointer; 
+border: none;
+display: flex;
+}
+
+
+
+/* home */
+
+.home {
+flex-direction: row;
+}
+
+.search_form {
+  max-width: 100%;
+  width: 60%;
+  justify-content: center;
+  margin-bottom: 2em;
+  display: flex;
+}
+
+.search_form input {
+  margin-right: 10px;
+  width: 50%;
+  display: flex;
+}
+
+.noposts {
+  text-align: center;
+  display: flex;
+}
+
+.noposts p {
+  margin-bottom: 1.5em;
+}
+
+.noposts a {
+  padding: 10px 25px;
+}
+
+/* Tela */
+
+.tela {
+width: 150px;
+height: 797px;
+margin-top: -502px;
+background-color: #F2EEE9;
+display: inline-block;
+}
+
+
+/* icons esquedo */
+
+.icone1 {
+display: flex;
+color: #000814;
+margin-top: -715px;
+height: 40px;
+margin-left: 50px;
+}
+
+.icone2 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 35px;
+margin-left: 45px;
+}
+
+.icone3 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 40px;
+margin-left: 50px;
+}
+
+.icone4 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 45px;
+margin-left: 50px;
+}
+
+.icone5 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 50px;
+margin-left: 55px;
+}
+
+.icone6 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 50px;
+margin-left: 50px;
+}
+
+
+ 
+.sair {
+margin-top: 75px;
+display: flex;
+height: 80px;
+width: 5px;
+margin-left: 50px;
+color: #000814;
+font-size: 15px;
+}
+

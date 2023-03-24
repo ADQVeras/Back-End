@@ -1,0 +1,443 @@
+/* Tela */
+
+.tela {
+width: 150px;
+height: 864px ;
+margin-left: 0px;
+margin-top: 0px;
+background-color: #F2EEE9;
+position: absolute;
+}
+ 
+ 
+/* home */
+
+.home {
+flex-direction: column;
+align-items: center;
+justify-content: center;
+position: absolute;
+}
+
+
+/* icons esquedo */
+
+.icone1 {
+position: absolute;
+margin-left: 50px;
+margin-top: 100px;
+color: #000814;
+width: 50px;
+height: 50px;
+}
+
+.icone2 {
+width: 500px;
+height: 500px;
+position: absolute;
+margin-left: 50px;
+margin-top: 200px;
+color: #000814;
+width: 50px;
+height: 50px;
+}
+
+.icone3 {
+width: 500px;
+height: 500px;
+position: absolute;
+margin-left: 50px;
+margin-top: 300px;
+color: #000814;
+width: 50px;
+height: 50px;
+}
+
+.icone4 {
+width: 500px;
+height: 500px;
+position: absolute;
+margin-left: 50px;
+margin-top: 400px;
+color: #000814;
+width: 50px;
+height: 50px;
+}
+
+.icone5 {
+width: 500px;
+height: 500px;
+position: absolute;
+margin-left: 50px;
+margin-top: 500px;
+color: #000814;
+width: 50px;
+height: 50px;
+}
+
+.icone6 {
+width: 500px;
+height: 500px;
+position: absolute;
+margin-left: 50px;
+margin-top: 600px;
+color: #000814;
+width: 50px;
+height: 50px;
+}
+
+
+/* Saida 2 */
+
+.sair {
+position: absolute;
+margin-left: 50px;
+margin-top: 760px;
+color: #000814;
+font-size: 15px;
+}
+
+/* Topo de Tudo */
+.texto1{
+position: absolute;
+margin-left: 280px;
+margin-top: 100px;
+width: 380px;
+font-size: 35px;
+font-weight: bold
+}
+
+/* ---------- Coluna 1 ---------- */
+
+.servico{
+position: absolute;
+margin-left: 280px;
+margin-top: 200px;
+width: 380px;
+font-size: 25px;
+font-weight: bold;
+border-bottom: 1px solid #919191;
+}
+
+.servico i {
+position: absolute;
+margin-left: -100px;
+margin-top: 60px;
+width: 380px;
+font-size: 20px;
+}
+
+.servico2{
+position: absolute;
+margin-left: 280px;
+margin-top: 300px;
+width: 380px;
+font-size: 20px;
+border:none;
+border-bottom: 1px solid #919191;
+}
+
+.titulo1{
+position: absolute;
+margin-left: 280px;
+margin-top: 350px;
+width: 380px;
+font-size: 20px;
+font-weight: bold
+}
+
+.texto5{
+position: absolute;
+margin-left: 280px;
+margin-top: 380px;
+width: 380px;
+font-size: 20px;
+border-bottom: 1px solid #919191;
+}
+
+.texto6{
+position: absolute;
+margin-left: 300px;
+margin-top: 470px;
+width: 380px;
+font-size: 25px;
+cursor: pointer;
+}
+
+.texto7{
+position: absolute;
+margin-left: 430px;
+margin-top: 470px;
+width: 380px;
+font-size: 25px;
+cursor: pointer;
+}
+
+.texto8{
+position: absolute;
+margin-left: 280px;
+margin-top: 530px;
+width: 100px;
+height: 100px;
+background-color: #F2EEE9;
+border-radius: 15px;
+cursor: pointer;
+}
+
+.icon1{
+margin-top: 20px;
+margin-left: 20px;
+width: 60px;
+height: 60px;
+color: #000814;
+}
+
+.texto9{
+position: absolute;
+margin-left: 390px;
+margin-top: 550px;
+width: 250px;
+font-size: 25px;
+}
+
+.texto10{
+position: absolute;
+margin-left: 280px;
+margin-top: 650px;
+width: 500px;
+font-size: 15px;
+}
+
+.foto{
+position: absolute;
+margin-left: 280px;
+margin-top: 680px;
+width: 80px;
+height: 80px;
+font-size: 30px;
+}
+
+.texto12{
+position: absolute;
+margin-left: 370px;
+margin-top: 710px;
+width: 40px;
+font-size: 20px;
+}
+
+.texto13{
+position: absolute;
+margin-left: 620px;
+margin-top: 710px;
+width: 380px;
+font-size: 20px;
+}
+  
+/* ----------- Coluna 2 ------------- */
+
+
+.texto14{
+position: absolute;
+margin-left: 830px;
+margin-top: 200px;
+width: 380px;
+font-size: 25px;
+font-weight: bold;
+border-bottom: 1px solid #919191;
+}
+
+.texto15{
+position: absolute;
+margin-left: 830px;
+margin-top: 270px;
+width: 380px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.texto16{
+position: absolute;
+margin-left: 1060px;
+margin-top: 270px;
+width: 380px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.texto17{
+position: absolute;
+margin-left: 830px;
+margin-top: 320px;
+width: 380px;
+font-size: 20px;
+border-bottom: 1px solid #919191;
+}
+
+.texto18{
+position: absolute;
+margin-left: 830px;
+margin-top: 420px;
+width: 380px;
+font-size: 25px;
+font-weight: bold;
+}
+
+.texto19{
+position: absolute;
+margin-left: 830px;
+margin-top: 470px;
+width: 380px;
+font-size: 25px;
+}
+
+.texto20{
+position: absolute;
+width: 300px;
+margin-left: 830px;
+margin-top: 510px;
+font-size: 25px;
+}
+
+.texto21{
+position: absolute;
+margin-left: 830px;
+margin-top: 550px;
+width: 520px;
+font-size: 25px
+}
+
+.texto22{
+position: absolute;
+margin-left: 830px;
+margin-top: 600px;
+width: 380px;
+font-size: 25px;
+}
+
+.texto23{
+position: absolute;
+margin-left: 1100px;
+margin-top: 600px;
+width: 380px;
+font-size: 30px;
+}
+
+.texto24{
+position: absolute;
+margin-left: 830px;
+margin-top: 680px;
+width: 40px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.texto25{
+position: absolute;
+margin-left: 830px;
+margin-top: 700px;
+width: 380px;
+font-size: 20px;
+border-bottom: 1px solid #919191;
+}
+
+
+/* ----------- Coluna 3 ------------- */
+
+
+.Voltar{
+position: absolute;
+width: 60px;
+background-color: #ffffff;
+color: #000814;
+margin-left: 1400px;
+margin-top: 110px;
+border: none;
+border-bottom: 1px solid #000814;
+}
+
+.Enviar{
+position: absolute;
+background-color: #000814;
+color: #ffffff;
+width: 220px;
+height: 35px;
+margin-left: 1550px;
+margin-top: 100px;
+border: none;
+border-radius: 10px;
+border-bottom: 1px solid #000814;
+cursor: pointer;
+text-align: center;
+padding-top: 15px;
+}
+
+
+.texto26{
+position: absolute;
+width: 350px;
+margin-left: 1400px;
+margin-top: 240px;
+font-weight: bold;
+border: none;
+border-bottom: 1px solid #919191;
+}
+
+.Adicional1{
+position: absolute;
+width: 350px;
+height: 100px;
+background-color: #ffffff;
+color: #000814;
+margin-left: 1400px;
+margin-top: 265px;
+border: none;
+border-bottom: 1px solid #919191;
+cursor: pointer;
+}
+
+.Adicional1 i{
+position: absolute;
+margin-left: 120px;
+margin-top: -20px;
+font-family: poppins;
+}
+
+.tb1{
+position: absolute;
+margin-left: 40px;
+margin-top: -15px;
+}
+
+.icon2{
+position: absolute;
+margin-top: 0px;
+margin-left: -40px;
+}
+
+.tb2{
+position: absolute;
+margin-left: 40px;
+color: #919191;
+}
+
+.Adicional2{
+position: absolute;
+width: 350px;
+height: 100px;
+background-color: #ffffff;
+color: #000814;
+margin-left: 1400px;
+margin-top: 370px;
+border: none;
+border-bottom: 1px solid #919191;
+cursor: pointer;
+}
+
+.Adicional2 i{
+position: absolute;
+margin-left: 120px;
+margin-top: -20px;
+font-family: poppins;
+}
+
+

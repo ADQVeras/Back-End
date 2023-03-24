@@ -1,0 +1,325 @@
+/* home */
+
+.home {
+flex-direction: row;
+}
+
+.search_form {
+  max-width: 100%;
+  width: 60%;
+  justify-content: center;
+  margin-bottom: 2em;
+  display: flex;
+}
+
+.search_form input {
+  margin-right: 10px;
+  width: 50%;
+  display: flex;
+}
+
+.noposts {
+  text-align: center;
+  display: flex;
+}
+
+.noposts p {
+  margin-bottom: 1.5em;
+}
+
+.noposts a {
+  padding: 10px 25px;
+}
+
+/* Tela */
+
+.tela {
+width: 150px;
+height: 797px;
+margin-top: -370px;
+background-color: #F2EEE9;
+display: flex;
+}
+
+/* icons esquedo */
+
+.icone1 {
+display: flex;
+color: #000814;
+margin-top: -715px;
+height: 40px;
+margin-left: 50px;
+}
+
+.icone2 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 35px;
+margin-left: 45px;
+}
+
+.icone3 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 40px;
+margin-left: 50px;
+}
+
+.icone4 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 45px;
+margin-left: 50px;
+}
+
+.icone5 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 50px;
+margin-left: 55px;
+}
+
+.icone6 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 50px;
+margin-left: 50px;
+}
+
+
+ 
+.sair {
+margin-top: 75px;
+display: flex;
+height: 80px;
+width: 5px;
+margin-left: 50px;
+color: #000814;
+font-size: 15px;
+}
+
+
+/* ---------- Coluna 1 ---------- */
+
+.texto1{
+margin-left: 550px;
+margin-top: 150px;
+border: none;
+display: flex;
+}
+
+.texto1 i {
+margin-left: -250px;
+position: absolute;
+}
+
+.texto2{
+margin-left: 300px;
+MARGIN-top: 0px;
+width: 400px;
+font-size: 130%;
+border: none;
+font-weight: bold;
+display: flex;
+}
+
+.texto3{
+width: 100px;
+margin-left: 300px;
+top: 0px;
+border: none;
+display: flex;
+}
+
+.texto4{
+width: 400px;
+margin-left: 300px;
+margin-top: 50px;
+border: none;
+display: flex;
+}
+
+/* image */
+
+.img1 {
+height: 174px;
+width: 189px;
+margin-left: 300px;
+margin-top: 50px;
+cursor: pointer;
+display: flex;
+}
+
+
+.img2 {
+height: 299px;
+width: 296px;
+margin-left: 500px;
+margin-top: -173px;
+cursor: pointer;
+display: flex;
+}
+
+
+.img3 {
+height: 113px;
+width: 189px;
+margin-left: 300px;
+margin-top: -113px;
+cursor: pointer;
+display: flex;
+}
+  
+/* ----------- Coluna 2 ------------- */
+
+/* Texto */
+
+.texto5{
+margin-left: 880px;
+margin-top: -500px;
+width: 390px;
+font-size: 120%;
+padding-bottom: 10px;
+border: none;
+display: flex;
+
+font-weight: bold;
+border: 1px solid #919191;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+
+.texto6{
+width: 395px;
+margin-left: 880px;
+margin-top: 10px;
+border: none;
+display: flex;
+}
+
+.texto7{
+width: 395px;
+margin-left: 880px;
+margin-top: 20px;
+font-weight: bold;
+border: none;
+display: flex;
+}
+
+
+/* ----------- Coluna 3 ------------- */
+
+
+.Voltar{
+width: 60px;
+background-color: #ffffff;
+color: #000814;
+margin-left: 1400px;
+margin-top: -100px;
+border: none;
+border-bottom: 1px solid #000814;
+display: flex;
+}
+
+.Enviar{
+display: flex;
+background-color: #000814;
+color: #ffffff;
+width: 220px;
+height: 35px;
+margin-left: 1530px;
+margin-top: -30px;
+border: none;
+border-radius: 10px;
+border-bottom: 1px solid #000814;
+cursor: pointer;
+text-align: center;
+padding-left: 15px;
+padding-top: 15px;
+display: flex;
+}
+
+
+.texto8{
+width: 350px;
+margin-left: 1400px;
+margin-top: -120px;
+font-weight: bold;
+border: none;
+border-bottom: 1px solid #919191;
+display: flex;
+}
+
+
+.box1 {
+height: 40px;
+width: 40px;
+background-color:#F2EEE9;
+border-radius: 50px;
+margin-left: 20px;
+margin-top: 20px;
+cursor: pointer;   
+border: none;
+position: absolute;
+}
+
+.Adicional1{
+display: flex;
+color: #000814;
+margin-left: 1400px;
+margin-top: 60px;
+border: none;
+border-bottom: 1px solid #919191;
+cursor: pointer;
+background-color: #ffffff;
+width: 350px;
+height: 70px;
+}
+
+.Adicional1 i{
+margin-left: 280px;
+margin-top: 20px;
+font-family: poppins;
+font-size: 20px;
+position: absolute;
+}
+
+.tb1{
+margin-left: 70px;
+margin-top: 15px;
+position: absolute;
+}
+
+.tb2{
+margin-left: 70px;
+margin-top: 35px;
+color: #919191;
+position: absolute;
+}
+
+.Adicional2{
+display: flex;
+color: #000814;
+background-color: #ffffff;
+width: 350px;
+height: 70px;
+margin-left: 1400px;
+margin-top: 0px;
+border: none;
+border-bottom: 1px solid #919191;
+cursor: pointer;
+}
+
+.Adicional2 i{
+margin-left: 280px;
+margin-top: 20px;
+font-family: poppins;
+font-size: 20px;
+position: absolute;
+}

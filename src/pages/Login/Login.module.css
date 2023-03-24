@@ -1,0 +1,252 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/*tela fundo*/
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/*tela fundo*/
+
+
+.tela {
+  width: 50%;
+  height: 963px;
+  margin-top: -15px;
+  background-color: #F2EEE9;
+}
+
+
+/* -- botoes lado esquerdo -- */
+
+.botoes{
+box-sizing: border-box;
+width: 600px;
+height: 200px;
+display: flex;
+border-radius: 10px;
+flex-direction: column;
+margin-left: 100px;
+margin-top: 120px;
+}
+
+.bt1{
+box-sizing: border-box;
+background: none;
+width: 585px;
+height: 98px;
+left: 100px;
+top: 300px;
+border-top:  0.5px solid #000814;
+background-color: #000814;
+color: #ffffff;
+border-bottom: none;
+border-radius: 10px;
+border-left: none;
+border-right: none; 
+display: flex;
+
+font-style: normal;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 26px;
+padding-right: 254px;
+}
+
+.bt1:hover{
+background: #000814;
+color: #ffffff;
+cursor: pointer;
+border-radius: 10px;
+display: flex;
+}
+
+.bt2{
+box-sizing: border-box;
+background: none;
+width: 585px;
+height: 98px;
+left: 100px;
+top: 399px;
+border-top:  0.5px solid #000814;
+border-bottom: none;
+border-left: none;
+border-right: none;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+border-radius: 0px;
+display: flex;
+
+
+
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 26px;
+padding-right: 254px;
+color: #000814;
+
+}
+
+
+.bt2:hover{
+print-color-adjust:  #000814 ;
+background: #000814;
+color: #ffffff;
+cursor: pointer;
+border-radius: 10px;
+display: flex;
+}
+
+
+.bt3{
+box-sizing: border-box;
+background: none;
+width: 585px;
+height: 98px;
+left: 100px;
+top: 498px;
+
+
+border-top:  0.5px solid #000814;
+border-bottom: 0.5px solid #000814;
+border-left: none;
+border-right: none;
+font-weight: 300;
+font-size: 25px;
+line-height: 38px;
+padding-top: 31px;
+padding-bottom: 29px;
+padding-left: 26px;
+padding-right: 254px;
+
+}
+
+.bt3:hover{
+  print-color-adjust:  #000814 ;
+  background: #000814;
+  color: #000814;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 10px;
+  display: flex;
+}
+
+/* -- Texto lado esquerdo -- */
+
+.text {
+  color: #000814;
+  margin-top: 122px;
+  margin-left: 100px;
+ 
+  text-size-adjust: 50px;
+  cursor: pointer;
+  font-family: 'Poppins';
+  font-style: normal;
+  line-height:60px;
+  
+  
+  font-size: 30px;
+}
+
+
+.explorar {
+  color: #000814;
+  margin-left: 850px;
+  font-size: 95%;
+  cursor: pointer;
+  font-family: 'Poppins';
+  font-style: normal;
+}
+
+/* Entrar */
+
+.login1{
+  
+  margin-left: 500px;
+  margin-top: 350px;
+  display: flex;
+  font-size: 120%;
+  position: absolute;
+  width: 540px;
+}
+
+.login11{
+  
+  margin-top: 25px;
+  display: flex;
+  font-size: 90%;
+  position: absolute;
+  width: 540px;
+}
+
+.login2{
+  
+  margin-left: 500px;
+  margin-top: 460px;
+  display: flex;
+  font-size: 120%;
+  position: absolute;
+  width: 540px;
+}
+
+.login22{
+  margin-top: 30px;
+  display: flex;
+  font-size: 90%;
+  position: absolute;
+  width: 540px;
+}
+
+.btn {
+  background-color: #000814;
+  color: rgb(255, 255, 255);
+  width: 540px;
+  height: 90px;
+  text-align: start;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 25px;
+  margin-top: 580px;
+  margin-left: 500px;
+  position: absolute;
+}
+
+.btn:hover,
+nav button:hover {
+  color: #bbb;
+}
+
+
+.btn1 {
+  margin-top: 680px;
+  margin-left: 500px;
+  text-align: start;
+  background-color: #ffffff;
+  color: #000814;
+  text-align: start;
+  border-radius: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+}
+
+.btn2 {
+  margin-top: 700px;
+  margin-left: 500px;
+  text-align: start;
+  background-color: #ee1111;
+  color: #ffffff;
+  text-align: start;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+
+}
+
+

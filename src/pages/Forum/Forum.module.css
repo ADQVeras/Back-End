@@ -1,0 +1,185 @@
+
+/* ---coluna 1 --- */
+
+
+/* TITULO */
+
+.titulo{
+display: flex;
+margin-top: 50px;
+margin-left: 300px;
+width: 800px;
+height: 100px;
+text-align: center;
+}
+
+.novo_post {
+color: #959595;
+margin-left: -700px;
+margin-top: 10px;
+font-size: 20px;
+}
+
+.create_post {
+text-align: center;
+margin-left: 300px;
+border: 1px solid #959595;
+border-top: none;
+border-radius: 15px;
+width: 880px;
+height: 180px;
+display: flex;
+}
+
+.img_post {
+margin-left: -300px;
+}
+
+.tag_post {
+margin-left: -300px;
+}
+
+.create_post h2 {
+width: 100px;
+height: 100px;
+margin-left: -100px;
+font-size: 2.2em;
+display: flex;
+}
+
+.create_post p {
+width: 100px;
+height: 100px;
+color: #aaa;
+margin-bottom: 2em;
+display: flex;
+}
+
+.enviar_post{
+width: 60px;
+height: 60px;
+margin-left: 880px;
+background-color: #000814;
+color: #F2EEE9;
+border-radius: 30px;
+display: flex;
+}
+
+.icon_post{
+margin-top: 15px;
+margin-left: 10px;
+color: #F2EEE9;
+border-radius: 30px;
+display: flex;
+}
+
+/* POST */
+
+.post{
+margin-top: 10px;
+margin-left: 300px;
+width: 900px;
+height: 100%;
+text-align: center;
+border-radius: 10px;
+padding: 50px;
+border: 1px solid #000814;
+background-color: #F2EEE9;
+}
+
+
+.search_form {
+max-width: 100%;
+width: 60%;
+margin-left: 1700px;
+margin-bottom: 2em;
+}
+
+.search_form input {
+margin-left: -300px;
+margin-top: 5px;
+width: 300px;
+}
+
+/* home */
+
+.home {
+flex-direction: row;
+}
+
+/* Tela */
+
+.tela {
+width: 8%;
+height: 1000px;
+margin-top: -805px;
+background-color: #F2EEE9;
+display: flex;
+}
+
+
+/* icons esquedo */
+
+.icone1 {
+display: flex;
+color: #000814;
+margin-top: -715px;
+height: 40px;
+margin-left: 50px;
+}
+
+.icone2 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 35px;
+margin-left: 45px;
+}
+
+.icone3 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 40px;
+margin-left: 50px;
+}
+
+.icone4 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 45px;
+margin-left: 50px;
+}
+
+.icone5 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 50px;
+margin-left: 55px;
+}
+
+.icone6 {
+margin-top: 60px;
+display: flex;
+color: #000814;
+height: 50px;
+margin-left: 50px;
+}
+
+
+ 
+.sair {
+margin-top: 75px;
+display: flex;
+height: 80px;
+width: 5px;
+margin-left: 50px;
+color: #000814;
+font-size: 15px;
+}
+
+
+
+ 
